@@ -464,15 +464,13 @@
 </div>
 <br/>
 <div>  
-  <h2>
-    :computer:<br/>
-    Skill
-  </h2>
-</div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<br/>
+  <h2>:computer: Skill</h2>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+
 <div>
 </div>
 <br/>
