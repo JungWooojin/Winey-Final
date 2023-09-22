@@ -473,7 +473,10 @@
   <br/>
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 </div>
 <br/>
 <div>  
@@ -484,12 +487,7 @@
 </div>
 <div>
   <br/>
-  <img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff"/>  
@@ -498,6 +496,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=fff"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black"/>
   <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=Notion&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff"/>
 </div>
 <br/>
 <br/>
