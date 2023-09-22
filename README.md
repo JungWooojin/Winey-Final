@@ -34,7 +34,8 @@
     <a href="https://youtu.be/AF_5gZDaF3k?si=87km-j0ePFCuTdvm" target="_blank">관리자 페이지 시연 영상 바로가기</a>  
   </span>
   <span>
-  <a href="https://www.canva.com/design/DAFtKVhiZtc/8PmDst9PS94Cii-GwzIZlQ/edit?utm_content=DAFtKVhiZtc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton target="_blank"발표자료 및 PDF</a>  
+  <a href="https://www.canva.com/design/DAFtKVhiZtc/8PmDst9PS94Cii-GwzIZlQ/edit?utm_content=DAFtKVhiZtc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton target="_blank">
+    발표자료 및 PDF</a>  
   </span>
 </div>
 <br/><br/>
